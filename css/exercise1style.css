@@ -1,0 +1,76 @@
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'RobotoCondensed-Bold';
+    font-size: 1.9rem;
+}
+
+h2 {
+    font-family: 'RobotoCondensed-Bold';
+    font-size: 1.5rem;
+}
+
+p {
+    font-family: 'RobotoCondensed-Regular';
+    font-size: 1rem;
+}
+
+
+@font-face {
+    font-family: 'RobotoCondensed-Bold';
+    src: url('../assets/Roboto_Condensed/RobotoCondensed-Bold.ttf');
+}
+
+@font-face{
+    font-family: 'RpbotoCondensed-BoldItalic';
+    src: url('../assets/Roboto_Condensed/RobotoCondensed-BoldItalic.ttf');
+}
+
+@font-face{
+    font-family: 'RobotoCondensed-Italic';
+    src: url('../assets/Roboto_Condensed/RobotoCondensed-Italic.ttf');
+}
+
+@font-face{
+    font-family: 'RobotoCondensed-Light';
+    src: url('../assets/Roboto_Condensed/RobotoCondensed-Light.ttf');
+}
+@font-face{
+    font-family: 'RobotoCondensed-LightItalic';
+    src: url('../assets/Roboto_Condensed/RobotoCondensed-LightItalic.ttf');
+}
+
+@font-face{
+    font-family: 'RobotoCondensed-Regular';
+    src: url('../assets/Roboto_Condensed/RobotoCondensed-Regular.ttf');
+}
+
+
+.title {
+    background-color: darkgrey;
+    margin-left: 39vh;
+    margin-right: 39vh;
+    padding: 5px;
+}
+
+.container {
+    margin-left: 49vh;
+    margin-right: 55vh;
+    text-align: justify;
+}
+
+img {
+    float: left;
+    width: 12vw;
+    height: 27vh;
+}
+
+
+
+
+
+
+
